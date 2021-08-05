@@ -26,7 +26,12 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - rguktians-map
+     - notifier
+     - todo-cli
+     - datastructures-and-algorithms
+     - dsa
+     - arrayappy.github.io
 
 social_media:
   # behance: your_username
