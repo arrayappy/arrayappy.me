@@ -16,8 +16,8 @@ defaults:
     values:
       layout: "post"
 
-projects:
-  sort_by: stars
+# projects:
+#   sort_by: stars
 #   sort_by options:
 #     - pushed
 #     - stars
