@@ -29,7 +29,6 @@ projects:
     - notifer
     - glosity-club-mern-task 
     - jobsier-react-task
-    - react-json-assessment
   exclude:
     archived: false
     forks: true
@@ -41,11 +40,12 @@ projects:
      - arrayappy.me
      - arrayappy.github.io
      - resume
+     - react-json-assessment
 
 social_media:
   # behance: your_username
   # dribbble: your_username
-#   instagram: arrayappy
+  # instagram: arrayappy
   # keybase: your_username
   linkedin: arrayappy
   # mastodon: your_username
