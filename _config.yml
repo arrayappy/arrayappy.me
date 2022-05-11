@@ -16,14 +16,14 @@ defaults:
     values:
       layout: "post"
 
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
+#   sort_by: pushed
+  sort_by options:
+    - pushed
+    - stars
   limit: 6
   exclude:
-    archived: false
-    forks: true
+#     archived: false
+#     forks: true
     projects:
      - TIGMINT
      - v4
