@@ -22,15 +22,6 @@ projects:
     - pushed
     - stars
   limit: 6
-    exclude:
-    archived: false
-    forks: false
-    projects:
-     - TIGMINT
-     - v4
-     - todo-cli
-     - split-bill-assessment
-     - resume
 
 social_media:
   # behance: your_username
