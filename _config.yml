@@ -22,6 +22,14 @@ projects:
 #     - pushed
 #     - stars
   limit: 6
+  include:
+    projects:
+    - rguktians-map
+    - meet-n-code
+    - notifer
+    - glosity-club-mern-task 
+    - jobsier-react-task
+    - react-json-assessment
   exclude:
     archived: false
     forks: true
