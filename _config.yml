@@ -17,19 +17,11 @@ defaults:
       layout: "post"
 
 projects:
-#   sort_by: stars
-#   sort_by options:
-#     - pushed
-#     - stars
+  sort_by: stars
+  sort_by options:
+    - pushed
+    - stars
   limit: 6
-  include:
-    projects:
-     - rguktians-map
-     - meet-n-code
-     - notifier
-     - datastructures-and-algorithms
-     - glosity-club-mern-task
-     - jobsier-react-task
 
 social_media:
   # behance: your_username
