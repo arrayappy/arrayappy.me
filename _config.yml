@@ -17,12 +17,12 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
-  sort_by options:
-    - pushed
-    - stars
+#   sort_by: stars
+#   sort_by options:
+#     - pushed
+#     - stars
   limit: 6
-  exclude:
+  include:
     projects:
      - rguktians-map
      - meet-n-code
@@ -72,13 +72,13 @@ topics:
     web_url: https://github.com/topics/cpp
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png
     
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    
   - name: AWS
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png
-    
-  - name: Firebase
-    web_url: https://github.com/topics/firebase
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png
     
   - name: SQL
     web_url: https://github.com/topics/sql
